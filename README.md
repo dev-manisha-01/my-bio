@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Manisha from Rungta College of engineering & technology, Bhilai<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Full stack development<br>- ⚡ In my free time I used to do code-rest-sleep!!</p>
+<p align="left">I'm Manisha from Rungta College of engineering & technology, Bhilai<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Full stack development and cloud enthusiastic<br>- ⚡ In my free time I used to do code-rest-sleep!!</p>
 
 ###
 
